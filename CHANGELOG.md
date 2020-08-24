@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-texttospeech/#history
 
+## [2.3.0](https://www.github.com/googleapis/python-texttospeech/compare/v2.2.0...v2.3.0) (2020-08-24)
+
+
+### Features
+
+* support custom client info ([#82](https://www.github.com/googleapis/python-texttospeech/issues/82)) ([0612793](https://www.github.com/googleapis/python-texttospeech/commit/06127932a920f6318db8f25d6430755b35d09bb5))
+
 ## [2.2.0](https://www.github.com/googleapis/python-texttospeech/compare/v2.1.0...v2.2.0) (2020-08-10)
 
 
